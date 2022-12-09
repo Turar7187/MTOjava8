@@ -1,4 +1,4 @@
 # MTOjava8
 
-![srcreenshot](01.png)
+![srcreenshot](lab1.png)
 ![srcreenshot](12.png)
